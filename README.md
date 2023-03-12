@@ -1,4 +1,7 @@
 # Q-Blockchain Node Tutorial
+
+### SOURCE:
+- https://docs.q.org/how-to-setup-validator/
 ## Install Node
 
 
